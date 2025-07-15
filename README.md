@@ -9,10 +9,10 @@ This repository showcases my work, learning journey, and projects across data en
 
 ## 🚀 About Me
 
-- 🧠 Passionate about **Data Engineering**, **Analytics**, and **Open Source Infrastructure**
+- 🧠 Passionate about **Data Engineering** and **Data Analytics**
 - 💼 Working in a **corporate IT environment**, combining data work and helpdesk support
 - 🧰 Building personal cloud infrastructure using **Docker**, **Linux**, and modern data tools
-- 🌐 Multilingual: 🇧🇷 Portuguese | 🇬🇧 English | 🇩🇪 German | 🇪🇸 Spanish
+- 🌐 Multilingual: Portuguese | English | German | Spanish
 
 ---
 
