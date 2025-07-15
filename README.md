@@ -25,7 +25,10 @@ This repository showcases my work, learning journey, and projects across data en
 - 🔹 Building **Power BI dashboards** for internal departments
 - 🔹 Creating KPIs, Measures & Reports using **DAX**
 - 🔹 Collaborating across departments to automate manual processes
-- 🔹 
+- 🔹 Scrum
+- 🔹 DevOps
+- 🔹 Microsoft Azure
+- 🔹 Terraform (Basics)
 
 ### 🛠️ IT Support (1st & 2nd Level)
 - 💻 User support and troubleshooting (hardware, software, systems)
