@@ -3,7 +3,7 @@
 # 👨‍💻 Welcome to My Repository
 
 Hi! I'm currently doing an **apprenticeship in Germany** as a Fachinformatiker für Daten- und Prozessanalyse (Data and Process Analysis Specialist).  
-This repository showcases my work, learning journey, and projects across data engineering, analytics, and IT infrastructure.
+This repository showcases my work, learning journey, and projects across data engineering, analytics and IT infrastructure.
 
 ---
 
