@@ -20,7 +20,7 @@ This repository showcases my work, learning journey, and projects across data en
 
 ### 📊 Data Engineering & Analytics
 - 🔹 **SQL**, **Python**, **PySpark** on **Azure Synapse Analytics**
-- 🔹 Handling **Big Data** in **Data Lakehouse**
+- 🔹 Handling **Big Data**
 - 🔹 Working with **JSON**, **SQL Serverless Pools**, **Views**, **Tabular Editor**
 - 🔹 Building **Power BI dashboards** for internal departments
 - 🔹 Creating KPIs, Measures & Reports using **DAX**
@@ -28,7 +28,7 @@ This repository showcases my work, learning journey, and projects across data en
 - 🔹 Scrum
 - 🔹 DevOps
 - 🔹 Microsoft Azure
-- 🔹 Terraform (Basics)
+- 🔹 IaC - Terraform (Basics)
 
 ### 🛠️ IT Support (1st & 2nd Level)
 - 💻 User support and troubleshooting (hardware, software, systems)
