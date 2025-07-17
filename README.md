@@ -47,7 +47,7 @@ This repository showcases my work, learning journey, and projects across data en
   - ☁️ **MinIO** (S3-compatible storage)
   - 🌪️ **Apache Airflow** (data orchestration)
   - and others
-  - 🌍 Remote access configured using **Cloudflare Tunnel**
+  - 🌍 Remote access configured using **Cloudflare Tunnel** and **Nginx** for reverse proxy
   - 🗂️ Building my own **Data Lake** and **Data Warehouse**
   - 🔐 Self-hosted and secure infrastructure
 
