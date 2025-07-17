@@ -30,7 +30,7 @@ This repository showcases my work, learning journey, and projects across data en
 - 🔹 Microsoft Azure
 - 🔹 IaC - Terraform (Basics)
 
-### 🛠️ IT Support (1st & 2nd Level)
+### 🛠️ IT Support (1st Level)
 - 💻 User support and troubleshooting (hardware, software, systems)
 - 🌐 Configuring Windows and network environments
 - 🔌 Basic **switch** and **network** configuration
@@ -62,7 +62,7 @@ This repository showcases my work, learning journey, and projects across data en
 | 🛠️ Infrastructure     | Docker, Docker Compose, Ubuntu Server, PostgreSQL, MinIO, Nginx, Apache Airflow   |
 | 🌍 DevOps / Cloud      | Cloudflare, Domain config, Remote Access setup, Server Hardening                 |
 | 💬 Communication       | Portuguese (Native), English (Fluent), German (Advanced), Spanish (Intermediate) |
-| 💼 IT Support          | Windows, Helpdesk (1st & 2nd Level), Hardware & Software troubleshooting          |
+| 💼 IT Support          | Windows, Helpdesk (1st Level), Hardware & Software troubleshooting          |
 
 
 
