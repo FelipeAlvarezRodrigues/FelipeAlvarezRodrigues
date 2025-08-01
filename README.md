@@ -30,10 +30,20 @@ This repository showcases my work, learning journey, and projects across data en
 - 🔹 Microsoft Azure
 - 🔹 IaC - Terraform (Basics)
 
-### 🛠️ IT Support (1st Level)
+### 
+🛠️ IT Support (1st & 2nd Level)
 - 💻 User support and troubleshooting (hardware, software, systems)
-- 🌐 Configuring Windows and network environments
-- 🔌 **switch** and **network** configuration
+- 🌐 Configuration of Windows environments and basic network setups
+- 🔌 Switch and network configuration
+- 🛡️ Administration of EgoSecure and USB/peripheral access control
+- 🗂️ Active Directory: user and group management, drive mapping
+- 📧 Exchange Online: mailbox tab management and delegation
+- ☁️ Azure AD: monitoring and issue resolution for user accounts
+- 🔐 Multi-Factor Authentication (MFA) setup
+- 💻 Device deployment: laptops, mobile phones, software installation
+- 📦 Use of Microsoft Intune and TKD Portal for device and app management
+- 💾 Backup server tasks and shared folder configuration
+- 🖥️ Computer provisioning and system integration using SCCM
 
 ---
 
@@ -55,14 +65,14 @@ This repository showcases my work, learning journey, and projects across data en
 
 ## 🧠 Tools & Technologies I Use
 
-| Category              | Tools & Platforms                                                                 |
-|-----------------------|-----------------------------------------------------------------------------------|
+| Category              | Tools & Platforms                                                                   |
+|-----------------------|-------------------------------------------------------------------------------------|
 | 💾 Data Engineering   | SQL, Python, PySpark, Microsoft Azure, Azure Synapse, Azure Blob Storage, SQL Pools|
-| 📈 Data Analytics     | Power BI, DAX, Tabular Editor, Excel transformation, KPI Reporting                |
-| 🛠️ Infrastructure     | Docker, Docker Compose, Ubuntu Server, PostgreSQL, MinIO, Nginx, Apache Airflow   |
-| 🌍 DevOps / Cloud      | Cloudflare, Domain config, Remote Access setup, Server Hardening                 |
-| 💬 Communication       | Portuguese (Native), English (Advanced), German (Advanced), Spanish (Fluent) |
-| 💼 IT Support          | Windows, Helpdesk (1st Level), Hardware & Software troubleshooting          |
+| 📈 Data Analytics     | Power BI, DAX, Tabular Editor, Excel transformation, KPI Reporting                 |
+| 🛠️ Infrastructure     | Docker, Docker Compose, Ubuntu Server, PostgreSQL, MinIO, Nginx, Apache Airflow    |
+| 🌍 DevOps / Cloud      | Cloudflare, Domain config, Remote Access setup, Server Hardening                  |
+| 💬 Communication       | Portuguese (Native), English (Advanced), German (Advanced), Spanish (Fluent)      |
+| 💼 IT Support          | Windows, Helpdesk (1st & 2nd Level), Hardware & Software troubleshooting          |
 
 
 
